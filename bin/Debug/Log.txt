@@ -1,0 +1,16 @@
+[01:46:31] [DEBUG] Library "SDL_EngineSubSystem_Debug.dll" was loaded successful.
+[01:46:31] [DEBUG] SDL_GraphicManager created.
+[01:46:31] [DEBUG] SDL_SoundManager created.
+[01:46:31] [DEBUG] SDL_MusicManager created.
+[01:46:31] [DEBUG] SDL_InputManager created.
+[01:46:31] [DEBUG] Fontmanager has been created.
+[01:46:31] [DEBUG] SDL_FontManager has been created.
+[01:46:31] [DEBUG] SDL_SystemManager created.
+[01:46:31] [DEBUG] SDL_MusicManager has been initialized.
+[01:46:31] [DEBUG] SDL_image has been initialized.
+[01:46:31] [DEBUG] SDL_ttf has been initialized.
+[01:46:31] Game has been initialized on 30.02.112 | 01:46:31
+[01:46:32] SDL Window has been successfully created.(800x600x32)
+[01:47:53] [DEBUG] SDL_image has been shutdown.
+[01:47:54] [DEBUG] SDL_MusicManager has been shutdown.
+[01:47:54] [DEBUG] SDL_ttf has been shutdown.
